@@ -3,7 +3,7 @@ import { TextField, Button, Container, Typography, Grid, FormControl, InputLabel
 import { styled } from '@mui/material/styles';
 
 const BackgroundContainer = styled('div')({
-  backgroundImage: url('https://img.freepik.com/premium-photo/online-registration-form-modish-form-filling_31965-53194.jpg'), // Replace with your actual background image
+  backgroundImage: `url('https://static.vecteezy.com/system/resources/previews/004/941/847/original/cosmetic-background-for-product-branding-and-packaging-presentation-geometry-form-circle-molding-on-podium-stage-with-shadow-of-leaf-background-design-eps10-vector.jpg')`, // Replace with your actual background image
   backgroundSize: 'cover',
   backgroundPosition: 'center',
   height: '100vh',
